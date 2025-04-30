@@ -2,7 +2,6 @@
 
 This project focuses on recognizing human emotions from speech using deep learning techniques and signal processing. It combines MFCC-based feature extraction with a powerful neural network model to classify emotions like *happy*, *sad*, *angry*, and *neutral* from voice recordings.
 
-Originally inspired by [x4nth055's work](https://github.com/x4nth055/emotion-recognition-using-speech), this version includes enhanced structure, improved documentation, and future roadmap contributions from [CAPTAINCODERCOOL](https://github.com/CAPTAINCODERCOOL).
 
 ---
 
@@ -85,7 +84,7 @@ Precision, recall, F1-score
 
 Test on unseen audio files
 
-💡 Suggested Improvements (by CAPTAINCODERCOOL)
+Future Enhancements
 Add real-time microphone input
 
 Expand to multilingual datasets
